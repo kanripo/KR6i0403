@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘舍黎娑擔摩經
+#+DATE: 2015-08-30 20:18:10.711658
+#+PROPERTY: JUAN 0
